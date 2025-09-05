@@ -1,4 +1,6 @@
 # What is this?
 Final Project of Kodland Python Pro Course.
 # What's its objective?
-Create a program (can be from memes talking about the topic to more serious research with the help of AI) that provides a solution to the Climate Change, a global threat to life in Earth.
+Create a Discord Bot that provides a solution to the Climate Change, a global threat to life in Earth. Generally just has comands that give you information about the climate change, and ways to avoid it.
+# Commands
+TBA
